@@ -104,10 +104,12 @@ To maintain a clean, modular, and scalable codebase, our GitHub repository is or
 
 ### `notebooks/`
 Contains exploratory and goal-specific Jupyter notebooks for all stages of the project. Each notebook is clearly labeled to reflect its role in the pipeline (e.g., preprocessing, model development, evaluation). This is where the majority of experimentation and results documentation is performed.
-   1. fsjnkn
-   2. nfknsk
-   3. fsklnk
-   4. ndfjkgn
+   1. 1_preprocessing_datasetprep.ipynb
+   2. 2_EDA.ipynb
+   3. 3_prelim_tests.ipynb
+   4. 4_model_development_goal1.ipynb
+   5. 5_model_development_goal2.ipynb
+   6. 6_model_development_goal3.ipynb
 
 ### `scripts/`
 Python scripts containing reusable functions and modular code for preprocessing.
