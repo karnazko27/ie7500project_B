@@ -100,9 +100,26 @@ We used the following dataset to conduct our analyses:
 
 ## Github Repository Structure
 
+To maintain a clean, modular, and scalable codebase, our GitHub repository is organized into the following directories:
 
+### `notebooks/`
+Contains exploratory and goal-specific Jupyter notebooks for all stages of the project. Each notebook is clearly labeled to reflect its role in the pipeline (e.g., preprocessing, model development, evaluation). This is where the majority of experimentation and results documentation is performed.
+   1. fsjnkn
+   2. nfknsk
+   3. fsklnk
+   4. ndfjkgn
 
+### `scripts/`
+Python scripts containing reusable functions and modular code for preprocessing.
 
+### `models/`
+Stores serialized model objects (e.g., `.pkl`, `.h5`, `.pt`) for reuse and deployment. 
+
+### `saved_dfs/`
+Processed and intermediate DataFrames saved during preprocessing, transformation, and feature engineering steps. Useful for debugging, version control, and avoiding redundant computation.
+
+### `datasets/`
+Contains raw and cleaned datasets used in this project. Large files are either compressed or linked via scripts to download from source (e.g., Kaggle).
 
 
 
