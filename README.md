@@ -127,7 +127,8 @@ Please click link to access: https://drive.google.com/drive/folders/1TjwGqS5w_IM
    1. `df_for_models.csv`
 
 ### `datasets/`
-Contains raw and cleaned datasets used in this project. Large files are either compressed or linked via scripts to download from source (e.g., Kaggle).
+Contains raw and cleaned datasets used in this project. Large files are either compressed or linked via scripts to download from source (e.g., Kaggle). Please click link to access: https://drive.google.com/drive/folders/1vTWHbv71GVw2dGre7YmasxUPrUpfiMYP?usp=sharing
+
 
 
 
