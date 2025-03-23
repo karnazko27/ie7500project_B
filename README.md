@@ -50,6 +50,7 @@ Group B: Karnaz Obaidullah & Shang Min (Anna) Yi
 
 
 # Research and Selection of Methods
+---
 
 ## Project Objectives and Goals
 
@@ -244,6 +245,7 @@ output = Dense(1, activation="sigmoid")(Dense(128, activation="relu")(concat))
 The preliminary experiments validated both the technical feasibility and predictive potential of our multi-model approach. From classical classifiers to deep recommendation models, each method contributed valuable insights for building a scalable, sentiment-aware, investor-personalized stock trading system.
 
 # Model Implementation
+---
 
 ## Framework Selection
 
@@ -504,6 +506,7 @@ Each goal was paired with its own metric-driven evaluation approach:
 Together, these metrics provided a comprehensive foundation for refining our models and guiding development decisions throughout the project.
 
 # References (APA Style)
+---
 
 1. Hossain, S. S., Arafat, Y., & Hossain, M. E. (2021). *Context-based news headlines analysis: A comparative study of machine learning and deep learning algorithms*. *Vietnam Journal of Computer Science*, 8(4), 513–527. https://doi.org/10.1142/S2196888822500014
 2. Joshi, K., Bharathi, H. N., & Rao, J. (n.d.). *Stock trend prediction using news sentiment analysis*. K. J. Somaiya College of Engineering. 
