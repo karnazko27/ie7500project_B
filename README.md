@@ -1,5 +1,7 @@
 # Using News Headlines for Financial Market Trading Decisions
 
+Group B: Karnaz Obaidullah & Shang Min (Anna) Yi
+
 ## Table of Contents
 
 1. [Research and Selection of Methods](#research-and-selection-of-methods)
