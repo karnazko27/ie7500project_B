@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Research and Selection of Methods](#research-and-selection-of-methods)
-2. [Project Objectives and Goals](##project-objectives-and-goals)
+2. [Project Objectives and Goals](#project-objectives-and-goals)
 3. [GitHub Repository Structure](#github-repository-structure)
 4. [Literature Review](#literature-review)  
    - [1. Predicting Buy/Hold/Sell Signals Using News Sentiment (Goal 1)](#1-predicting-buyholdsell-signals-using-news-sentiment-goal-1)  
