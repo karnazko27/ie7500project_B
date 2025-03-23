@@ -3,9 +3,7 @@
 Group B: Karnaz Obaidullah & Shang Min (Anna) Yi
 
 
-# Table of Contents
-
-# Table of Contents
+## Table of Contents
 
 1. [Research and Selection of Methods](#research-and-selection-of-methods)  
    1.1 [Project Objectives and Goals](#project-objectives-and-goals)  
