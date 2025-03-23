@@ -1,6 +1,6 @@
 # Using News Headlines for Financial Market Trading Decisions
 
-Group B: Karnaz Obaidullah & Shang Min (Anna) Yi
+Group B:  Shang Min (Anna) Yi / Karnaz Obaidullah
 
 
 ## Table of Contents
