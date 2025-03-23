@@ -2,7 +2,6 @@
 
 Group B: Karnaz Obaidullah & Shang Min (Anna) Yi
 
-## Table of Contents
 
 # Table of Contents
 
