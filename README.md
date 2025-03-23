@@ -102,9 +102,9 @@ We used the following dataset to conduct our analyses:
 
 Recent advancements in Natural Language Processing (NLP) and machine learning (ML) have opened new pathways for stock market forecasting, trading automation, and investor support systems. This review synthesizes key research aligned with our three project goals:
 
-1. Predicting Buy/Hold/Sell for each stock**,**
-2. Recommending stocks based on investor profiles, and
-3. Building an NLP-based trading bot**.**
+1. Predicting Buy/Hold/Sell for each stock
+2. Recommending stocks based on investor profiles
+3. Building an NLP-based trading bot
 
 #### *1. Predicting Buy/Hold/Sell Signals Using News Sentiment (Goal 1)*
 
