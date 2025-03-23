@@ -123,6 +123,8 @@ Stores serialized model objects (e.g., `.pkl`, `.h5`, `.pt`) for reuse and deplo
 
 ### `saved_dfs/`
 Processed and intermediate DataFrames saved during preprocessing, transformation, and feature engineering steps. Useful for debugging, version control, and avoiding redundant computation.
+Please click link to access: https://drive.google.com/drive/folders/1TjwGqS5w_IMuMZcWZ8XfE-2gePYrm1wn?usp=sharing
+   1. `df_for_models.csv`
 
 ### `datasets/`
 Contains raw and cleaned datasets used in this project. Large files are either compressed or linked via scripts to download from source (e.g., Kaggle).
