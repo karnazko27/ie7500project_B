@@ -99,8 +99,7 @@ We used the following datasets to conduct our analyses:
   - Volume: ~4m articles for 6000 stocks from 2009-2020
 
 - NASDAQ Stocks Screener
-
-- Source: NASDAQ, https://www.nasdaq.com/market-activity/stocks/screener?page=1&rows_per_page=25
+   - Source: NASDAQ, https://www.nasdaq.com/market-activity/stocks/screener?page=1&rows_per_page=25
 
 ## Github Repository Structure
 
