@@ -116,6 +116,7 @@ Contains exploratory and goal-specific Jupyter notebooks for all stages of the p
 
 ### `scripts/`
 Python scripts containing reusable functions and modular code for preprocessing.
+- `helpers.py`: small helper functions for preprocessing
 
 ### `models/`
 Stores serialized model objects (e.g., `.pkl`, `.h5`, `.pt`) for reuse and deployment. 
@@ -126,8 +127,7 @@ Please click link to access: https://drive.google.com/drive/folders/1TjwGqS5w_IM
    1. `df_for_models.csv`
 
 ### `datasets/`
-Contains raw and cleaned datasets used in this project. Large files are either compressed or linked via scripts to download from source (e.g., Kaggle). Please click link to access: https://drive.google.com/drive/folders/1vTWHbv71GVw2dGre7YmasxUPrUpfiMYP?usp=sharing
-
+Contains raw and cleaned datasets used in this project. Large files are either compressed or linked via scripts to download from source (e.g., Kaggle). Please click link to access: https://drive.google.com/drive/folders/1vTWHbv71GVw2dGre7YmasxUPrUpfiMYP?usp=sharing 
 
 
 
