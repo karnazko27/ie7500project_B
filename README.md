@@ -1,6 +1,44 @@
+# Using News Headlines for Financial Market Trading Decisions
 
+## Table of Contents
 
-[TOC]
+1. [Research and Selection of Methods](#research-and-selection-of-methods)
+2. [Project Objectives and Goals](#project-objectives-and-goals)
+3. [GitHub Repository Structure](#github-repository-structure)
+4. [Literature Review](#literature-review)  
+   - [1. Predicting Buy/Hold/Sell Signals Using News Sentiment (Goal 1)](#1-predicting-buyholdsell-signals-using-news-sentiment-goal-1)  
+   - [2. Recommending Stocks Based on Investor Profiles (Goal 2)](#2-recommending-stocks-based-on-investor-profiles-goal-2)  
+   - [3. Building an NLP-Based Trading Bot (Goal 3)](#3-building-an-nlp-based-trading-bot-goal-3)
+5. [Benchmarking](#benchmarking)
+6. [Preliminary Experiments](#preliminary-experiments)  
+   - [Objectives](#objectives)  
+   - [Models and Techniques Tested](#models-and-techniques-tested)  
+   - [Preprocessing](#preprocessing)  
+   - [Key Findings](#key-findings)  
+   - [Conclusion](#conclusion)
+7. [Model Implementation](#model-implementation)
+8. [Framework Selection](#framework-selection)
+9. [Dataset Preparation](#dataset-preparation)  
+   - [1. Data Loading and Integration](#1-data-loading-and-integration)  
+   - [2. Text Normalization and Tokenization](#2-text-normalization-and-tokenization)  
+   - [3. Sentiment Labeling](#3-sentiment-labeling)  
+   - [4. Feature Engineering](#4-feature-engineering)  
+   - [5. Label and Feature Encoding](#5-label-and-feature-encoding)  
+   - [6. Final Dataset Structure](#6-final-dataset-structure)
+10. [Model Development](#model-development)  
+    - [Goal 1: Predict Buy / Hold / Sell (Classification)](#goal-1-predict-buy--hold--sell-classification)  
+    - [Goal 2: Recommend Stocks Based on Investor Profile](#goal-2-recommend-stocks-based-on-investor-profile)  
+    - [Goal 3: NLP-Based Trading Bot](#goal-3-nlp-based-trading-bot)
+11. [Training and Fine-Tuning](#training-and-fine-tuning)  
+    - [1. Traditional Machine Learning Models](#1-traditional-machine-learning-models)  
+    - [2. Deep Learning Models](#2-deep-learning-models)  
+    - [3. Recommendation Models](#3-recommendation-models)
+12. [Evaluation and Metrics](#evaluation-and-metrics)  
+    - [1. Classification Models](#1-classification-models)  
+    - [2. Recommendation Models](#2-recommendation-models)  
+    - [3. Trading Bot Models](#3-trading-bot-models)
+13. [References (APA Style)](#references-apa-style)
+
 
 
 
