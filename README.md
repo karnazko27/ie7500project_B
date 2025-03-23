@@ -46,7 +46,7 @@
 
 ## Project Objectives and Goals
 
-Our project aims to apply NLP techniques to use News Headlines, analyze their content and provide concise, actionable recommendations for financial market trading decisions. This will streamline the information-gathering process for investors, enhance decision-making efficiency,
+Our project aims to apply NLP techniques to use News Headlines, analyze their content and provide concise, actionable recommendations for financial market trading decisions. This will streamline the information-gathering process for investors, enhance decision-making efficiency.
 
 Using a dataset enriched with sentiment scores, stock fundamentals, and classification labels, we seek to streamline information overload, support data-driven investment decisions, and enable automation in financial analysis.
 
@@ -375,6 +375,8 @@ We applied systematic hyperparameter optimization for all classical classificati
   Fine-tuned learning rate (`eta`), `max_depth`, `subsample`, and `lambda` parameters. Early stopping based on validation F1-score was used to avoid overfitting.
 - **Support Vector Machine (SVM)**
   Tuned `C` and `gamma` for RBF kernel; also compared performance with linear kernel. Emphasis was placed on margin control and generalization.
+  **Naive Bayes**
+- Used TF-IDF features for text classification, emphasizes simplicity and speed for baseline model evaluation.
 
 > All traditional models were evaluated using `StratifiedKFold` cross-validation and optimized for macro-averaged F1-score due to class imbalance in Buy/Hold/Sell labels.
 
@@ -433,7 +435,7 @@ To ensure robust, generalizable performance across all models, we applied task-s
 
 **(Goal 1: Predict Buy / Hold / Sell based on News Headlines)**
 
-For all classification models—including Logistic Regression, SVM, Random Forest, XGBoost, MLP, LSTM, and BERT—we used the **F1-macro score** as the primary evaluation metric. This allowed us to fairly assess performance across imbalanced classes (Buy, Hold, Sell).
+For all classification models—including Logistic Regression, SVM, Random Forest, Naive Bayes, XGBoost, MLP, LSTM, and BERT—we used the **F1-macro score** as the primary evaluation metric. This allowed us to fairly assess performance across imbalanced classes (Buy, Hold, Sell).
 
 **Additional metrics included:**
 
