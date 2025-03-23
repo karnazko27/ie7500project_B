@@ -90,13 +90,17 @@ We will implement a prototype trading bot that automates the end-to-end process:
 
 Together, these objectives form the foundation for a comprehensive NLP-powered financial system that bridges unstructured news data with structured investment logic, enhancing both efficiency and intelligence in trading.
 
-We used the following dataset to conduct our analyses:
+We used the following datasets to conduct our analyses:
 
 - Daily Financial News for 6000+ Stocks
 
   - Source: Kaggle, https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests?select=raw_partner_headlines.csv
 
   - Volume: ~4m articles for 6000 stocks from 2009-2020
+
+- NASDAQ Stocks Screener
+
+- Source: NASDAQ, https://www.nasdaq.com/market-activity/stocks/screener?page=1&rows_per_page=25
 
 ## Github Repository Structure
 
