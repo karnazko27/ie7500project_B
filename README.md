@@ -126,10 +126,18 @@ Stores serialized model objects (e.g., `.pkl`, `.h5`, `.pt`) for reuse and deplo
 ### `saved_dfs/`
 Processed and intermediate DataFrames saved during preprocessing, transformation, and feature engineering steps. Useful for debugging, version control, and avoiding redundant computation.
 Please click link to access: https://drive.google.com/drive/folders/1TjwGqS5w_IMuMZcWZ8XfE-2gePYrm1wn?usp=sharing
-   1. `df_for_models.csv`
+   1. `df_for_models.csv`- Finalized dataset for modelling
+   2. `merged_df_dict.csv` - Datatypes dictionary
+   3. `merged_df_v1.csv` - Checkpoint saved for large dataset manipulation
+
 
 ### `datasets/`
 Contains raw and cleaned datasets used in this project. Large files are either compressed or linked via scripts to download from source (e.g., Kaggle). Please click link to access: https://drive.google.com/drive/folders/1vTWHbv71GVw2dGre7YmasxUPrUpfiMYP?usp=sharing 
+
+   1. `raw_partner_headlines.csv` - Dataset from Kaggle chosen for this project  
+   2. `nasdaq_screener_1742264403037.csv` - Financial Dataset from NASDAQ
+   3. `analyst_ratings_processed.csv` - Dataset from Kaggle (not chosen for this project)
+   4. `raw_analyst_rating.csv` -  Dataset from Kaggle (not chosen for this project)
 
 
 
