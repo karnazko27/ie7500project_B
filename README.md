@@ -334,7 +334,7 @@ Each model was trained on engineered features including lemmatized text, sentime
 
 
 
-------
+
 
 ### Goal 2: Recommend Stocks Based on Investor Profile
 
@@ -347,7 +347,7 @@ We designed modular recommender systems that match user profiles (e.g., investme
 
 
 
-------
+
 
 ### Goal 3: NLP-Based Trading Bot
 
