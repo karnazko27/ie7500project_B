@@ -112,9 +112,10 @@ The notebooks are run in order specified below for reproduceability:
    1. `1_preprocessing_datasetprep.ipynb`
    2. `2_EDA.ipynb`
    3. `3_prelim_tests.ipynb`
-   4. `4_model_development_goal1.ipynb`
-   5. `5_model_development_goal2.ipynb`
-   6. `6_model_development_goal3.ipynb`
+   4. `4_model_development_goal1_part1.ipynb`
+   5. `5_model_development_goal1_part2.ipynb`
+   6. `6_model_development_goal2.ipynb`
+   7. `7_model_development_goal3.ipynb`
 
 ### `scripts/`
 Python scripts containing reusable functions and modular code for preprocessing.
